@@ -15,3 +15,15 @@
 #start{
     font-size: 22px;
 }
+#source{
+    background-color: white;
+    margin: 0px;
+    line-height: 2;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_img{
+    display: inline-block;
+    width: 45%;
+}
